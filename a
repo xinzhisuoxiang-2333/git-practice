@@ -1,0 +1,48 @@
+[33mcommit 6d5d15fa1e1ad1ebc65b110f491cac8144315115[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/feature[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeature[m[33m)[m
+Author: wenwen <1456880402@qq.com>
+Date:   Tue May 31 08:34:03 2022 +0800
+
+    add a.txt
+
+[33mcommit ca2b9069d072d11cbb3bd5cf6929f979808220d9[m
+Merge: 7ecdb99 dac02d2
+Author: wenwen <1456880402@qq.com>
+Date:   Tue May 31 08:09:42 2022 +0800
+
+    Merge branch 'main' of https://github.com/xinzhisuoxiang-2333/git-practice
+
+[33mcommit 7ecdb99fc9640167f050a89d0f511eb6e34d59fa[m
+Author: wenwen <1456880402@qq.com>
+Date:   Mon May 30 19:07:54 2022 +0800
+
+    add line
+
+[33mcommit dac02d25ba26d9efbce6594675d253c81a627c1f[m
+Author: wenwen <1456880402@qq.com>
+Date:   Mon May 30 19:06:49 2022 +0800
+
+    add a line
+
+[33mcommit e2a0cce6b5f9606fc84185f49330cf064fa52d1b[m
+Author: wenwen <1456880402@qq.com>
+Date:   Mon May 30 18:17:44 2022 +0800
+
+    add shopping list-colleague.txt
+
+[33mcommit da7f0424aebe54ee54f92521d545cf8e977a48c3[m
+Author: wenwen <1456880402@qq.com>
+Date:   Mon May 30 18:02:42 2022 +0800
+
+    add a line
+
+[33mcommit f3e73b0d1c0d2843f9226b98740786354433f991[m
+Author: wenwen <1456880402@qq.com>
+Date:   Mon May 30 17:56:28 2022 +0800
+
+    Add shopping list.txt
+
+[33mcommit 9a546c8908abafcc100999ec2cf5148846091cb6[m
+Author: xinzhisuoxiang-2333 <62582353+xinzhisuoxiang-2333@users.noreply.github.com>
+Date:   Mon May 30 17:44:27 2022 +0800
+
+    Initial commit
